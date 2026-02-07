@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "PlayStation 5",
+    "keyword": "PlayStation 5",
+    "priceThreshold": 49000,
+    "minPrice": 30000,
+    "enabled": true
+  },
+  {
+    "id": "2",
+    "name": "Mac mini M4",
+    "keyword": "Mac mini M4",
+    "priceThreshold": 73000,
+    "minPrice": 50000,
+    "enabled": true
+  }
+]
